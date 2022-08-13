@@ -42,7 +42,7 @@
 
     "predeploy": "npm run build",
 
-    "deploy": "gh-pages -d buld",
+    "deploy": "gh-pages -d build",
 
     "build": "react-scripts build",
 
